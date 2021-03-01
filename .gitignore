@@ -5,3 +5,4 @@
 !/Blog/my_blog/my_blog/settings.py
 !/Blog/my_blog/my_blog/wsgi.py
 !/Blog/my_blog/my_blog/urls.spy
+db.sqlit3
