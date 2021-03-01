@@ -4,4 +4,4 @@ Blog/my_blog/my_blog/*
 !Blog/my_blog/my_blog/asgi.py
 !Blog/my_blog/my_blog/settings.py
 !Blog/my_blog/my_blog/wsgi.py
-!Blog/my_blog/my_blog/urlspy
+!Blog/my_blog/my_blog/urls.spy
