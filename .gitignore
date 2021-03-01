@@ -1,7 +1,7 @@
-Blog/my_blog/my_blog/*
-!Blog/my_blog/my_blog/__pycache__
-!Blog/my_blog/my_blog/__init__.py
-!Blog/my_blog/my_blog/asgi.py
-!Blog/my_blog/my_blog/settings.py
-!Blog/my_blog/my_blog/wsgi.py
-!Blog/my_blog/my_blog/urls.spy
+/Blog/my_blog/my_blog/*
+!/Blog/my_blog/my_blog/__pycache__
+!/Blog/my_blog/my_blog/__init__.py
+!/Blog/my_blog/my_blog/asgi.py
+!/Blog/my_blog/my_blog/settings.py
+!/Blog/my_blog/my_blog/wsgi.py
+!/Blog/my_blog/my_blog/urls.spy
